@@ -1,0 +1,31 @@
+name: YOUDROID STUDIO
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/754a5dad-61ca-48f5-a13c-c6506f606734.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/73e91554-88bc-4071-bf70-03754e4f1827.jpg
+layout_spectrum: 0.9707704758179811
+typography_spectrum: 0.016877735359980495
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
+  brandStrength: 0.9750327752685406
+  lightness: 0.15183886805129498
+  saturation: 0.5476947817194898
+  rhythmicContrast: 0.535076382675145
+title: canala
+description: 'https://www.youtube.com/channel/UCnv1zF98Z2puvbE5ffpSoTw'
+author:
+  name: josue
+  url: 'https://www.youtube.com/channel/UCnv1zF98Z2puvbE5ffpSoTw'
+  email: floresgarciaj588@gmail.com
+content_rating:
+  adult: false
+content: []
+github: true
